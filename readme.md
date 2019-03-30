@@ -1,4 +1,4 @@
-Check it out at akashsara.github.io
+Check it out at https://akashsara.github.io
 
 Generated files can be found on: https://github.com/akashsara/akashsara.github.io
 
