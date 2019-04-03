@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Akash Saravanan"
 theme = "minimal"
 disqusShortname = "" # delete this to disable disqus comments
-googleAnalytics = ""
+googleAnalytics = "UA-137697069-1"
 publishDir = "akashsara.github.io"
 
 [params]
@@ -29,13 +29,13 @@ publishDir = "akashsara.github.io"
 #    weight = 2
 
 [[menu.main]]
-    url = "/project/"
+    url = "/Project/"
     name = "Projects"
     weight = 3
 	
 [[menu.main]]
-    url = "/publication/"
-    name = "Publications"
+    url = "/Research-Work/"
+    name = "Research Work"
     weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar
